@@ -4,3 +4,4 @@ ipywidgets
 matplotlib
 pillow
 pandas
+ipympl
