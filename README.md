@@ -1,2 +1,2 @@
-This code should be run in a Jupyter Notebook environment.
-It was run with Python 3.11.7.
+This code should be executed in a Jupyter Notebook environment to have access to the interactive widgets.
+It was written using Python 3.11.7.
