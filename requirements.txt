@@ -1,0 +1,6 @@
+voila
+notebook
+ipywidgets
+matplotlib
+pillow
+pandas
